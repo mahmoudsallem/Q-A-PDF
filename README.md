@@ -32,6 +32,6 @@ The Binary Vector Database with OpenAI Embeddings and ChatGPT-3 Integration proj
 
 To use the project, follow these steps:
 
-1. [Install the necessary dependencies](#installation).
-2. [Configure your environment](#configuration).
-3. [Run the project](#running-the-project).
+1. [Install the necessary dependencies].
+2. [Configure your environment].
+3. [Run the project].
