@@ -1,6 +1,6 @@
 # Q&A-PDF
 
-# Project Title: Binary Vector Database with OpenAI Embeddings and ChatGPT-3 Integration
+# Project Title: Q&A with your PDF 
 
 ## Description
 
